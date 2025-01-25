@@ -1,6 +1,7 @@
 {
     "name": "spotted/laravel-medialibrary",
     "description": "Associate files with Eloquent models",
+    "version": "9.9.0",
     "keywords": [
         "spotted",
         "laravel-medialibrary",
